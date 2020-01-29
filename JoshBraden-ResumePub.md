@@ -10,25 +10,25 @@ github.com/josbraden
 
 ## About
 
-Five years experience in Managed Services, seeking a career in software engineering and cybersecurity.
+Over six years experience in the Managed Services field, seeking a career in software engineering; interests also include cybersecurity, devops, and systems administration
 
 ## Experience
 
-**System Administration/Helpdesk Technician**
+**System Administration**
 
 _Novosad Hayes Associates_
 
 Houston, TX
 
-June 2013-Current
-
-* Proficient in user support and usage of desktop and server operating systems
-
-* Configured and managed enterprise NAS systems with FreeNAS
+July 2018-Current
 
 * Involved in client onboarding and virtual environment configuration
 
-* Worked in a small, versatile helpdesk group responsible for varied clientele
+* Managed most Windows network aspects in a small/medium environment
+
+* Configured and managed enterprise NAS systems with FreeNAS
+
+* Handled automation, security, upgrades, and more
 
 ## Skills
 
@@ -36,15 +36,19 @@ June 2013-Current
 
 * Git
 
-* Familiarity with DB Management Systems, MySQL/MSSQL
+* Powershell
+
+* DB Management Systems, MySQL
+
+* Remote Desktop Services deployment and management
 
 * Systems Administration, Windows and *nix
-
-* Palo Alto ACE Certification
 
 * Microsoft Office
 
 * VMWare ESX and View	
+
+* REST API integrations and JSON processing
 
 ## Education
 
